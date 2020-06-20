@@ -479,15 +479,17 @@ The 98 percent confidence interval for the average percentage of positive cases 
 
 > Over all interpretation
 
-This demonstrates that as the confidence level increases the size of the confidence intervals 
-becomes wider and this makes us to fail to reject the null hypothesis.
+This demonstrates that as the confidence level increases, the size of the confidence intervals 
+becomes wider and we therefore, fail to reject the null hypothesis.
 
 ---
 
 ![You made it to the end!](https://media2.giphy.com/media/LXiElF2dzvUmQ/giphy.gif) 
 
+#
+
 ---
 
-I hope you enjoy this article and if you like this write up, you can also follow me on [Twitter](https://www.twitter.com/gbganalyst){target="_blank"} and [Linkedin](https://www.linkedin.com/in/ezekiel-ogundepo/){target="_blank"} for more updates in `R`, `Python`, and `Excel` for data science. The Github repository of this tutorial can be found [here](https://github.com/gbganalyst/Data-Visualization-and-Analysis).
+I hope you enjoy this article and if you like this write up, you can also follow me on [Twitter](https://www.twitter.com/gbganalyst){target="_blank"} and [Linkedin](https://www.linkedin.com/in/ezekiel-ogundepo/){target="_blank"} for more updates in `R`, `Python`, and `Excel` for data science. The Github repository for this tutorial can be found [here](https://github.com/gbganalyst/Data-Visualization-and-Analysis).
 
 ![](https://media2.giphy.com/media/Tw4z4MD34y11K/giphy.gif)  
