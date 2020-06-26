@@ -38,6 +38,7 @@ You are required to conduct the following tasks using R where coding is required
 ## Autism data
 
 To follow along this tutorial, you can download the dataset below:
+
 ```{r Autism dataset, echo = FALSE}
 
 # using `DT` Java library to get download page
