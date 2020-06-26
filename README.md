@@ -1,3 +1,3 @@
 # Data-Visualization-and-Analysis
 
-This tutorial answer various questions on exploratory data analysis using autism dataset.
+This tutorial answers various questions on exploratory data analysis using autism dataset.
