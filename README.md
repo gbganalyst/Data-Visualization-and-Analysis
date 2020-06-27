@@ -1,3 +1,3 @@
 # Data-Visualization-and-Analysis
 
-This tutorial answers various questions on exploratory data analysis using autism dataset.
+I took my time to develop an exploratory data analysis with R programming. These questions and answers tutorial used children autism data on #Kaggle
