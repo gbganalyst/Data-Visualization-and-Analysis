@@ -81,7 +81,7 @@ child_data <- read_csv("data/child.csv")
 
 ## Data preprocessing
 
-This removes white spaces and `'` found in any variable in the child dataset.
+This removes white spaces and `'` found in any variable in the children autism dataset.
 
 ```{r data_cleaning}
 clean_data <- child_data %>% mutate_if(~is.character(.),~str_squish(  str_remove_all(string = ., pattern = "'"))) %>% mutate_at(vars(5:11), as.factor)
